@@ -15,8 +15,9 @@ Todo o HTML e CSS foram fornecidos pelo curso **One - Oracle Next Education | Al
 - **Adicione amigos:** Insira nomes únicos e crie uma lista personalizada.
 - **Sorteio único:** Cada amigo é sorteado apenas uma vez, garantindo justiça no processo.
 - **Gerenciamento automático:** Após o sorteio de todos os nomes as listas são limpas, e o botão de sorteio é desativado até finalizar a limpeza das listas.
-- **Inteface intuitiva:** Simples de usar, com feedbacks claros para o usuário.  
+- **Inteface intuitiva:** Simples de usar, com feedbacks claros para o usuário.   
 <br>
+
 ## Benefícios de Usar Este Projeto
 - **Prática em JavaScript:** Manipulação de arrays, controle de fluxo e **DOM (Document Onject Model)**.
 - **Feedback instantâneo:** Validação em tempo real para evitar duplicidades e erros de entrada.
