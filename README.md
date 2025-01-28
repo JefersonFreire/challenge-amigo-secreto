@@ -43,27 +43,29 @@ Todo o HTML e CSS foram fornecidos pelo curso **One - Oracle Next Education | Al
 
  4. **Realiza o sorteio:**  
  Clique em "Sortear amigo" e veja o nome exibido na tela.  
- ![botão sortear](assets\botaoSortear.png)
+ <img src="assets\botaoSortear.png" width ="645px" height="100px">
   
 
  5. **Limpeza automática ou Reiniciar:**  
  Após todos os nomes serem sorteados, as listas serão automaticamente reiniciadas.  
  Se o usuário desejar, poderá reiniciar o jogo a qualquer momento.  
- ![botão sortear](assets\botaoReiniciar.png)      
+ <img src="assets\botaoReiniciar.png" width ="645px" height="100px">      
 <br>
 
 ## Estrutura da Lógica 🎲  
 1. **Adicionar Amigos**  
-![img](assets\adicionarAmigo.png)  
+<img src="assets\adicionarAmigo.png" width ="680px" height="320px">  
 
 2. **Atualizar Lista de Amigos**  
-![img](assets\atualizarLista.png)  
+<img src="assets\atualizarLista.png" width ="680px" height="320px">  
 
 3. **Sorteio de Amigos**  
-![img](assets\sortearAmigo.png)  
+<img src="assets\sortearAmigo.png" width ="680px" height="480px">  
+  
 
 4. **Reiniciar o Sorteio**  
-![img](assets\reiniciar.png)  
+<img src="assets\reiniciar.png" width ="680px" height="320px">  
+  
 <br>
 
 ## Habilidades desenvolvidas 🏫
